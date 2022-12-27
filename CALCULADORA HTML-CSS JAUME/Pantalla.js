@@ -8,7 +8,7 @@ class Pantalla {
         this.lineaResultat = '';
         this.lineaUsuari = '';
         this.simbols = {
-            C: '+',
+            sumar: '+',
             dividir: '/',
             multiplicar: 'x',
             restar: '-', 
